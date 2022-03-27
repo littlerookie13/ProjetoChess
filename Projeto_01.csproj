@@ -127,6 +127,18 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Chess-Pieces\black_pieces\black_bishop.png" />
+    <Content Include="Chess-Pieces\black_pieces\black_castle.png" />
+    <Content Include="Chess-Pieces\black_pieces\black_king.png" />
+    <Content Include="Chess-Pieces\black_pieces\black_knight.png" />
+    <Content Include="Chess-Pieces\black_pieces\black_pawn.png" />
+    <Content Include="Chess-Pieces\black_pieces\black_queen.png" />
+    <Content Include="Chess-Pieces\white_pieces\white_bishop.png" />
+    <Content Include="Chess-Pieces\white_pieces\white_castle.png" />
+    <Content Include="Chess-Pieces\white_pieces\white_king.png" />
+    <Content Include="Chess-Pieces\white_pieces\white_knight.png" />
+    <Content Include="Chess-Pieces\white_pieces\white_pawn.png" />
+    <Content Include="Chess-Pieces\white_pieces\white_queen.png" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />

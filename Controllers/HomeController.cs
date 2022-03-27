@@ -31,5 +31,12 @@ namespace Projeto_01.Controllers
         {
             return View();
         }
+
+        public ActionResult Leaderboard()
+        {
+            ViewBag.Title = "Leaderboard!";
+            ViewBag.Message = "All players leaderboard";
+            return View();
+        }
     }
 }

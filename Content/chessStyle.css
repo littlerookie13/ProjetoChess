@@ -1,0 +1,286 @@
+﻿:root {
+    --white-square: rgb(245, 226, 164, 0,00);
+    --black-square: rgb(114, 172, 124);
+}
+/*background-color: var(--main-bg-color);*/
+
+body {
+    background-color: rgb(182, 182, 182);
+}
+
+#pos {
+    display: flex;
+    justify-content: center;
+}
+
+#main_grid {
+    background-color: rgb(241, 168, 73);
+    display: grid;
+    position: relative;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(8,1fr);
+    width: 800px;
+    height: 800px;
+}
+
+.letters_below {
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+#grid01 {
+    background-color: var(--white-square);
+}
+
+#grid02 {
+    background-color: var(--black-square);
+}
+
+#grid03 {
+    background-color: var(--white-square);
+}
+
+#grid04 {
+    background-color: var(--black-square);
+}
+
+#grid05 {
+    background-color: var(--white-square);
+}
+
+#grid06 {
+    background-color: var(--black-square);
+}
+
+#grid07 {
+    background-color: var(--white-square);
+}
+
+#grid08 {
+    background-color: var(--black-square);
+}
+
+#grid09 {
+    background-color: var(--black-square);
+}
+
+#grid10 {
+    background-color: var(--white-square);
+}
+
+#grid11 {
+    background-color: var(--black-square);
+}
+
+#grid12 {
+    background-color: var(--white-square);
+}
+
+#grid13 {
+    background-color: var(--black-square);
+}
+
+#grid14 {
+    background-color: var(--white-square);
+}
+
+#grid15 {
+    background-color: var(--black-square);
+}
+
+#grid16 {
+    background-color: var(--white-square);
+}
+
+#grid17 {
+    background-color: var(--white-square);
+}
+
+#grid18 {
+    background-color: var(--black-square);
+}
+
+#grid19 {
+    background-color: var(--white-square);
+}
+
+#grid20 {
+    background-color: var(--black-square);
+}
+
+#grid21 {
+    background-color: var(--white-square);
+}
+
+#grid22 {
+    background-color: var(--black-square);
+}
+
+#grid23 {
+    background-color: var(--white-square);
+}
+
+#grid24 {
+    background-color: var(--black-square);
+}
+
+#grid25 {
+    background-color: var(--black-square);
+}
+
+#grid26 {
+    background-color: var(--white-square);
+}
+
+#grid27 {
+    background-color: var(--black-square);
+}
+
+#grid28 {
+    background-color: var(--white-square);
+}
+
+#grid29 {
+    background-color: var(--black-square);
+}
+
+#grid30 {
+    background-color: var(--white-square);
+}
+
+#grid31 {
+    background-color: var(--black-square);
+}
+
+#grid32 {
+    background-color: var(--white-square);
+}
+
+#grid33 {
+    background-color: var(--white-square);
+}
+
+#grid34 {
+    background-color: var(--black-square);
+}
+
+#grid35 {
+    background-color: var(--white-square);
+}
+
+#grid36 {
+    background-color: var(--black-square);
+}
+
+#grid37 {
+    background-color: var(--white-square);
+}
+
+#grid38 {
+    background-color: var(--black-square);
+}
+
+#grid39 {
+    background-color: var(--white-square);
+}
+
+#grid40 {
+    background-color: var(--black-square);
+}
+
+#grid41 {
+    background-color: var(--black-square);
+}
+
+#grid42 {
+    background-color: var(--white-square);
+}
+
+#grid43 {
+    background-color: var(--black-square);
+}
+
+#grid44 {
+    background-color: var(--white-square);
+}
+
+#grid45 {
+    background-color: var(--black-square);
+}
+
+#grid46 {
+    background-color: var(--white-square);
+}
+
+#grid47 {
+    background-color: var(--black-square);
+}
+
+#grid48 {
+    background-color: var(--white-square);
+}
+
+#grid49 {
+    background-color: var(--white-square);
+}
+
+#grid50 {
+    background-color: var(--black-square);
+}
+
+#grid51 {
+    background-color: var(--white-square);
+}
+
+#grid52 {
+    background-color: var(--black-square);
+}
+
+#grid53 {
+    background-color: var(--white-square);
+}
+
+#grid54 {
+    background-color: var(--black-square);
+}
+
+#grid55 {
+    background-color: var(--white-square);
+}
+
+#grid56 {
+    background-color: var(--black-square);
+}
+
+#grid57 {
+    background-color: var(--black-square);
+}
+
+#grid58 {
+    background-color: var(--white-square);
+}
+
+#grid59 {
+    background-color: var(--black-square);
+}
+
+#grid60 {
+    background-color: var(--white-square);
+}
+
+#grid61 {
+    background-color: var(--black-square);
+}
+
+#grid62 {
+    background-color: var(--white-square);
+}
+
+#grid63 {
+    background-color: var(--black-square);
+}
+
+#grid64 {
+    background-color: var(--white-square);
+}
